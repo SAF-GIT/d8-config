@@ -1,9 +1,11 @@
+uuid: b61aafda-62b0-4d8e-b3d5-af021e86dcc4
 langcode: en
 status: true
 dependencies:
   module:
     - comment
-_core: {  }
+_core:
+  default_config_hash: MLin6S_PsJ7Oo480DxS46D46IM8tqFkkWOLyH7TGByI
 id: comment_unpublish_action
 label: 'Unpublish comment'
 type: comment

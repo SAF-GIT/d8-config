@@ -1,9 +1,11 @@
+uuid: cb5211a1-2162-4806-bdfa-556bd294f0fc
 langcode: en
 status: true
 dependencies:
   module:
     - node
-_core: {  }
+_core:
+  default_config_hash: 97tvtzGOa8_flb22CzSjgtm_YkiGMHvEBO-6q2K9V_U
 id: node_search
 label: Content
 path: node

@@ -1,7 +1,9 @@
+uuid: 6deba145-38d8-4904-aaac-628e27c91535
 langcode: en
 status: true
 dependencies: {  }
-_core: {  }
+_core:
+  default_config_hash: og8sWXhBuHbLMw3CoiBEZjgqSyhFBFmcbUW_wLcfNbo
 id: long
 label: 'Default long date'
 locked: false

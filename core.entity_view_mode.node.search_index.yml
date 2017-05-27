@@ -1,9 +1,11 @@
+uuid: 4f6847f8-85ab-4327-86a3-64002b4cbe92
 langcode: en
 status: false
 dependencies:
   module:
     - node
-_core: {  }
+_core:
+  default_config_hash: fVFfJv_GzBRE-wpRHbfD5a3VjnhbEOXG6lvRd3uaccY
 id: node.search_index
 label: 'Search index'
 targetEntityType: node

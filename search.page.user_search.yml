@@ -1,9 +1,11 @@
+uuid: 5325e977-0416-4686-b5fe-4743b5207018
 langcode: en
 status: true
 dependencies:
   module:
     - user
-_core: {  }
+_core:
+  default_config_hash: k3aUaZXGDuhkek2TZIee0PApOPTvYZLadziekdyHA5A
 id: user_search
 label: Users
 path: user

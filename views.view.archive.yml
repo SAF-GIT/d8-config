@@ -1,3 +1,4 @@
+uuid: dba80263-1a43-4c89-bb25-9117ba5bc2ac
 langcode: en
 status: false
 dependencies:
@@ -6,7 +7,8 @@ dependencies:
   module:
     - node
     - user
-_core: {  }
+_core:
+  default_config_hash: SRH1EhxAiIRj01P9xYv0h_LfIfWxjll0Yq-eDfjziFI
 id: archive
 label: Archive
 module: node

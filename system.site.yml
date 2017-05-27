@@ -1,3 +1,4 @@
+uuid: 82aef94b-dd0f-4b64-9faa-200684431e00
 name: 'Drupal 8 Site Install'
 mail: admin@example.com
 slogan: ''
@@ -9,4 +10,3 @@ admin_compact_mode: false
 weight_select_max: 100
 langcode: en
 default_langcode: en
-_core: {  }
