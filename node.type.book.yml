@@ -1,0 +1,17 @@
+uuid: 86f87c1a-63a2-4c76-a7c7-7c21e1034dd1
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Book
+type: book
+description: ''
+help: ''
+new_revision: true
+preview_mode: 0
+display_submitted: false
